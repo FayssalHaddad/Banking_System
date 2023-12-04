@@ -1,4 +1,4 @@
-# Object-Oriented Programming Exercise in Python
+# Object-Oriented Programming Project in Python
 
 ## Description
 This project is a Python-based object-oriented programming exercise that simulates a basic banking system. It allows the creation of bank accounts, handling deposits, withdrawals, and inter-account transactions. The system also demonstrates the dynamic categorization of accounts based on balance and applies specific interest rates.
